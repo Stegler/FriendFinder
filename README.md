@@ -4,11 +4,11 @@ Survey app compatablity finder! Answer the 10 question survey to discover who yo
 
 <b>Technologies Used</b>
 
-Javascript
-jQuery
-node.js
-NPM Packages: express, body-parser, path
-HTML
+Javascript<br>
+jQuery<br>
+node.js<br>
+NPM Packages: express, body-parser, path<br>
+HTML<br>
 Bootstrap
 
 Deployed on Heroku
