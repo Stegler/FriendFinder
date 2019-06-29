@@ -1,5 +1,7 @@
 # FriendFinder
 
-Link to application. Currently working on getting app deployed on Heroku.
+Survey app compatablity finder! Answer the 10 question survey to discover who you are most compatible to be friends with!
 
- https://stegler.github.io/FriendFinder/
+Deployed on Heroku
+
+https://afternoon-crag-92591.herokuapp.com/
